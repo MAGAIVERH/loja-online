@@ -1,7 +1,7 @@
 import { ProductWithTotalPrice } from "@/helpers/product";
 
 import Image from "next/image";
-import { Badge } from "./ui/badge";
+import { Badge } from "./badge";
 import { ArrowDownIcon } from "lucide-react";
 
 interface ProductItemProps {
