@@ -1,3 +1,5 @@
+// Importe o adaptador atualizado aqui
+
 import NextAuth from "next-auth";
 import { authOptions } from "@/lib/auth";
 
